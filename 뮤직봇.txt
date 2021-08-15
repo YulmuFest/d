@@ -1,0 +1,8 @@
+discord
+selenium
+beautifulsoup4
+lxml
+requests
+urllib3
+youtube_dl
+pytz
